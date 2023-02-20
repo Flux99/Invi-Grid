@@ -1,0 +1,11 @@
+Nodej question
+
+Create a nodejs server for file transfer.
+-> Create a nodejs server with a get route to serve a pdf file to the user.
+-> multiple users should be able to get different pdfs.
+-> e.g 
+ -> user A and user B are there.
+ -> pdf A and pdf B are there. 
+ -> user A should be served with pdf A and not pdf B.
+ -> user B should be served with pdf B and not pdf A. 
+ -> Put some basic authentication wrt user and server files accordingly.
